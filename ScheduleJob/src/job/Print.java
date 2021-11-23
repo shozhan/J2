@@ -6,6 +6,7 @@ public class PrintConsole {
 		
 		System.out.println("Hurray, the second Jenkins Job 2");
 		System.out.println("Hurray, the second Jenkins Job 3");
+		System.out.println("Hurray, the second Jenkins Job 4");
 	}
 
 }
